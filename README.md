@@ -1,4 +1,4 @@
-# Materiales Tutorial Datos Espaciales RLadies La Paz
+# Materiales Tutorial Datos Espaciales para RLadies La Paz
 
 Taller realizado el 25 de junio de 2020.
 
