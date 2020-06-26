@@ -1,0 +1,2 @@
+Bolivia: datos obtenidos desde https://geo.gob.bo/portal/
+Chile: reciclaje.csv modificado desde http://www.ide.cl/index.php/medio-ambiente/item/1631-campanas-de-reciclaje-con-instituciones-de-beneficencia-region-metropolitana
